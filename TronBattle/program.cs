@@ -29,7 +29,6 @@ namespace TronBattle
             }
         }
         public static Field[,] MapArray { get; set; }
-        public static Field[][] ss { get; set; }
     }
 
     public class Field
